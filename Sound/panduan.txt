@@ -1,0 +1,20 @@
+Backsound on repeat dari awal splash screen sampe tiap level pun pake lagu yg sama.
+Tapi setiap ganti level lagu dimulai dari awal.
+
+Button_press digunakan setiap memencet tombol apapun
+
+NPC_marah digunakan saat NPC marah
+
+NPC_datang digunakan saat NPC pertama kali datang atau muncul
+
+NPC_pulangdankoin digunakan saat NPC pulang (yang muncul asap dan koin)
+
+Notif digunakan saat muncul nomor di  NPWP, kalkulator, bukti bayar dan SPT.
+
+Salah digunakan saat dokumen yg dipilih salah
+
+Benar digunakan saat dokumen yg dipilih benar
+
+Kalah digunakan saat level tersebut tidak memenuhi skor minimal
+
+Menang digunakan saat level tersebut memenuhi skor minimal
